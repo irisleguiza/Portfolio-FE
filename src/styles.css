@@ -1,0 +1,82 @@
+.body{color:black!important;}
+
+.header{background-color: black;
+padding-bottom: 0%;
+padding-top: 0%;
+line-height:0;}
+
+.navbar.bg-warning{
+    background: rgb(36,34,0);
+background: linear-gradient(90deg, rgba(36,34,0,1) 0%, rgba(141,149,6,1) 35%, rgba(228,255,0,1) 100%);}
+
+.encabezado {background-color: black!important;}
+
+.btn-edit {color:black}
+
+.presentacion{background-color: black;
+     color: whitesmoke;
+     text-align: left;
+    padding-left: 0%;}
+
+.imagen{background-color: black;
+padding-left: 5%; }
+
+.btn-dark{background-color: black !important; color:yellow!important;}
+.btn-dark:hover{background-color:yellow !important; color:black !important;}
+
+.main {background-color: black}
+
+.card-img-top{background-color:yellow;}
+
+.card-text {text-align: justify;
+padding: 10xp,10xp,10xp,10xp}
+
+.card {background-color:yellow;
+color:black}
+.login {background-color: yellow;
+padding: 10px;}
+.educacion {background-color:black!important;
+padding-top:0%;
+padding-left: 10%;
+padding-right: 10%;}
+
+.card-body{background-color:yellow!important;
+color:black !important;
+font-size: 20px;
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.card-body.text-success {color: black !important;}
+
+.card-img-top {width: 40xp;left: 40xp;}
+
+img {display: block;
+    max-width: 100%;
+    height: auto;}
+
+.hard-skills{background-color: black;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;}
+
+.soft-skills{background-color: black;
+    padding-top: 2%;
+padding-left: 10%;
+padding-right: 10%;}
+
+.proyectos {background-color: black;
+    padding-top: 0%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom:4% ;
+}
+.card.text-bg-warning {background-color:yellow !important}
+.card-header{text-align: center;}
+.card-text {text-align: center;}
+.laburo {background-color: black;
+    padding-bottom: 3%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 0%;}
+
+.footer{color: black;}
